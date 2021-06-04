@@ -175,16 +175,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  team:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  datanotice:
     output: true
     permalink: /:collection/:path/
 
@@ -209,10 +206,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _team
   - scope:
       path: ""
-      type: teaching
+      type: team
     values:
       layout: single
       author_profile: true
@@ -227,23 +224,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _datanotice
   - scope:
       path: ""
-      type: portfolio
+      type: datanotice
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+ 
 
 # Sass/SCSS
 sass:
