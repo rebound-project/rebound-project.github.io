@@ -1,10 +1,9 @@
 # main links links
 main:
-
   - title: "Team"
     url: /team/
     
-- title: "Publications"
+  - title: "Publications"
     url: /publications/
 
   - title: "Data notice"
