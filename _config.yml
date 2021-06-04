@@ -175,13 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  team:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  datanotice:
     output: true
     permalink: /:collection/:path/
 
@@ -211,7 +205,7 @@ defaults:
       path: ""
       type: team
     values:
-      layout: single
+      layout: default
       author_profile: true
       share: true
       comments: true
@@ -229,7 +223,7 @@ defaults:
       path: ""
       type: datanotice
     values:
-      layout: single
+      layout: default
       author_profile: true
       share: true
       comment: true
