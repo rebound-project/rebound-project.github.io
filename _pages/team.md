@@ -1,8 +1,6 @@
 ---
-layout: archive
-title: ""
+layout: team
+title: Team
+description: Who we are
 permalink: /team/
-author_profile: true
 ---
-
-foo bar
