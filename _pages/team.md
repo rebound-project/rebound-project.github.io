@@ -1,8 +1,8 @@
 ---
-layout: single
-title: Team
-description: Who we are
+layout: archive
+title: "Team"
 permalink: /team/
+author_profile: true
 ---
 
 - Aristides Gionis
