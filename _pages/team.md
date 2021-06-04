@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Team"
+permalink: /team/
 author_profile: true
 ---
