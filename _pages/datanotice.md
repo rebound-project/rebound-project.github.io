@@ -24,7 +24,7 @@ author_profile: true
 archiving purposes in the public interest, scientific research purposes or statistical purposes and erasure of research data will not render impossible or seriously impair objectives of scientific research.
 11. The following protection measures have been enacted in this research:
   - he processing of personal data is based on a research plan.
-  - The research has a responsible principle investigator (see /team/)
+  - The research has a responsible principle investigator (see [Rebound team](/team/))
   - The personal data is used and disclosed only for the purposes of scientific research and all parties
 involved in the research agree to ensure that no data pertaining to any specific individuals is disclosed
 to any third parties.
@@ -33,7 +33,7 @@ this processing has been made.
   - There is an ethical review (date and name of ethical committee to be completed) 
 12. More information on the study and the exercising of your rights
   - The controller in this study is KTH.
-  - The contact person in matters related to the research study is the project principle investigator (see /team/)
+  - The contact person in matters related to the research study is the project principle investigator (see [Rebound team](/team/))
   - The data collection process has been reviewed by the KTH Data Protection Officer (DPO)
   - If the research participant sees that their data has been processed in violation of the General Data
 Protection Regulation or data protection legislation, the participant has the right to lodge a complaint with the DPO.
