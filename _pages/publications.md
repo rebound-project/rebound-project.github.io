@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### Recent related publications
+#### Recent publications
 
 - paper 1
 - paper 2
