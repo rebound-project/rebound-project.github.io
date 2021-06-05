@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-test 1
+test 2
 
 The project is funded by the [European Research Council (ERC)](https://erc.europa.eu), grant number 834862.
 
-![ERC](/images/LOGO_ERC.jpg)
+![ERC](/images/LOGO_ERC.jpg#thumbnail)
