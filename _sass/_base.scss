@@ -217,6 +217,19 @@ figure {
       width: 100%;
     }
   }
+   
+  &.tenth {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(10% - 0.5em);
+      }
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  } 
 
   &.third {
     > a,
