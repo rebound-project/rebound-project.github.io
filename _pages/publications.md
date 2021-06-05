@@ -1,12 +1,11 @@
 ---
 layout: single
-title: ""
+title: "Recent publications"
 permalink: /publications/
 author_profile: true
 ---
 
-## Recent publications
-
 - paper 1
 - paper 2
 - paper 3
+- paper 4
