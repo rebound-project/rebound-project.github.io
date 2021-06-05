@@ -23,7 +23,7 @@ author_profile: true
   - to erasure, if research data have been unlawfully processed and processing is no longer necessary for
 archiving purposes in the public interest, scientific research purposes or statistical purposes and erasure of research data will not render impossible or seriously impair objectives of scientific research.
 11. The following protection measures have been enacted in this research:
-  - he processing of personal data is based on a research plan.
+  - The processing of personal data is based on a research plan.
   - The research has a responsible principle investigator (see [Rebound team](/team/))
   - The personal data is used and disclosed only for the purposes of scientific research and all parties
 involved in the research agree to ensure that no data pertaining to any specific individuals is disclosed
