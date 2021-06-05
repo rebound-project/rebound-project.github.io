@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Privacy notice on data collection"
 permalink: /datanotice/
 author_profile: true
