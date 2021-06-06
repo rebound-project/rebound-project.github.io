@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-Our team is primarily based on [KTH Royal Institute of Technology](https://www.kth.se/en)
+Our team is primarily based in [KTH Royal Institute of Technology](https://www.kth.se/en)
 
 - [Aristides Gionis](https://www.kth.se/profile/argioni), professor, principal investigator
 - [Florian Adriaens](https://www.kth.se/profile/adriaens?l=en), postdoctoral researcher
