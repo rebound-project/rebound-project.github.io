@@ -24,4 +24,4 @@ Collaborators, past students, and visitors
 - [Corinna Coupette](https://people.mpi-inf.mpg.de/~coupette/)
 - [Federico Cinus](https://phd.uniroma1.it/web/FEDERICO-CINUS_nP1944916_EN.aspx)
 - [Ilie Sarpe](https://iliesarpe.github.io/)
-- Francesco Zappia
+- [Francesco Zappia](https://www.linkedin.com/in/francesco-zappia-84137716b/?originalSubdomain=de)
