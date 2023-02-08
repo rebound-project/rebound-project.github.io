@@ -18,6 +18,7 @@ Our team is primarily based in [KTH Royal Institute of Technology](https://www.k
 
 Alumni, collaborators, and visitors
 
+- [Cigdem Aslay](https://pure.au.dk/portal/en/persons/cigdem-aslay(921b00ac-c233-4813-be49-89852a83f6bc).html)
 - [Bruno Ordozgoiti](https://justbruno.github.io/)
 - [Florian Adriaens](https://researchportal.helsinki.fi/en/persons/florian-adriaens)
 - [Han Xiao](http://xiaohan2012.github.io/)
