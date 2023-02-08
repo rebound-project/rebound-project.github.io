@@ -13,7 +13,8 @@ Our team is primarily based in [KTH Royal Institute of Technology](https://www.k
 - [Sijing Tu](https://www.kth.se/profile/sijing), PhD candidate
 - [Ruo-Chun Tzeng](https://www.kth.se/profile/rctzeng), PhD candidate
 - [Tianyi Zhou](https://www.kth.se/profile/tzho), PhD candidate
-\
+
+<br/>
 
 Collaborators, past students, and visitors
 
