@@ -8,14 +8,19 @@ author_profile: true
 Our team is primarily based in [KTH Royal Institute of Technology](https://www.kth.se/en)
 
 - [Aristides Gionis](https://www.kth.se/profile/argioni), professor, principal investigator
-- [Florian Adriaens](https://www.kth.se/profile/adriaens?l=en), postdoctoral researcher
 - [Stefan Neumann](https://www.kth.se/profile/neum?l=en), postdoctoral researcher
+- [Tommaso Lanciano](https://phd.uniroma1.it/web/LANCIANO-TOMMASO_nP1661409_EN.aspx), PhD candidate and research engineer
 - [Sijing Tu](https://www.kth.se/profile/sijing), PhD candidate
 - [Ruo-Chun Tzeng](https://www.kth.se/profile/rctzeng), PhD candidate
-- Francesco Zappia, MS student
+- [Tianyi Zhou](https://www.kth.se/profile/tzho), PhD candidate
 
-We also work closely with our collaborators in [Aalto University](https://www.aalto.fi/en)
+Collaborators, past students, and visitors
 
-- [Bruno Ordozgoiti](https://users.aalto.fi/~ordozgb1/), postdoctoral researcher
-- [Han Xiao](http://xiaohan2012.github.io/), postdoctoral researcher
-- Antonis Matakos, PhD candidate
+- [Bruno Ordozgoiti](https://justbruno.github.io/)
+- [Florian Adriaens](https://researchportal.helsinki.fi/en/persons/florian-adriaens)
+- [Han Xiao](http://xiaohan2012.github.io/)
+- Antonis Matakos
+- [Federico Cinus](https://phd.uniroma1.it/web/FEDERICO-CINUS_nP1944916_EN.aspx)
+- [Corinna Coupette](https://people.mpi-inf.mpg.de/~coupette/)
+- [Ilie Sarpe](https://iliesarpe.github.io/)
+- Francesco Zappia
